@@ -2,7 +2,7 @@ package io.th0rgal.drawing.sketches;
 
 import processing.core.PApplet;
 
-public class Exo1 extends PApplet {
+public class Exo2 extends PApplet {
 
     public void settings() {
         size(640, 480);
